@@ -1,7 +1,7 @@
 <h2>This project is using Laravel v9.52.20 with Laravel Breeze as athentication package.</h2>
 
 <h3>A. How to install Laravel Breeze:</h3>
-1. composer require laravel/breeze --dev
+1. composer require laravel/breeze --dev  <br/>
 2. php artisan breeze:install <br/>
    Then choose blade.<br/>
 3. php artisan migrate<br/>
